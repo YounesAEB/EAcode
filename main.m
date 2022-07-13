@@ -12,7 +12,7 @@ clc;
 %% INPUT DATA
 
 % Material properties
-E = 85e9;
+E = 200e9;
 
 % Cross-section parameters
 t1 = 1.5e-3;
